@@ -1,2 +1,3 @@
 # Coding_note
- 个人代码刷题记录及笔记
+THis is my own Coding note!
+Welcome to study and communication with me!
